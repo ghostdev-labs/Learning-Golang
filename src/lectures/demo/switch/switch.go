@@ -29,7 +29,7 @@ func main() {
 	case Business:
 		fmt.Println("Business seating")
 	case FirstClass:
-		fmt.Println("First cladd seating")
+		fmt.Println("First class seating")
 	default:
 		fmt.Println("other seating")
 	}
